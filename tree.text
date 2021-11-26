@@ -1,0 +1,86 @@
+.
+├── README.md
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── example
+│   │   │           └── zendeskticketviewer
+│   │   │               ├── GlobalExceptionHandler.java
+│   │   │               ├── Model
+│   │   │               │   ├── Meta.java
+│   │   │               │   ├── Reponse.java
+│   │   │               │   ├── Ticket.java
+│   │   │               │   └── Tuple.java
+│   │   │               ├── TicketController.java
+│   │   │               ├── TicketService.java
+│   │   │               └── ZendeskTicketViewerApplication.java
+│   │   └── resources
+│   │       ├── application.properties
+│   │       ├── static
+│   │       └── templates
+│   │           └── ticket.html
+│   └── test
+│       └── java
+│           └── com
+│               └── example
+│                   └── zendeskticketviewer
+│                       ├── TicketControllerTest.java
+│                       ├── TicketServiceTest.java
+│                       └── ZendeskTicketViewerApplicationTests.java
+├── target
+│   ├── ZendeskTicketViewer-0.0.1-SNAPSHOT.jar
+│   ├── ZendeskTicketViewer-0.0.1-SNAPSHOT.jar.original
+│   ├── classes
+│   │   ├── application.properties
+│   │   ├── com
+│   │   │   └── example
+│   │   │       └── zendeskticketviewer
+│   │   │           ├── GlobalExceptionHandler.class
+│   │   │           ├── Model
+│   │   │           │   ├── Meta.class
+│   │   │           │   ├── Reponse.class
+│   │   │           │   ├── Ticket.class
+│   │   │           │   └── Tuple.class
+│   │   │           ├── TicketController.class
+│   │   │           ├── TicketService.class
+│   │   │           └── ZendeskTicketViewerApplication.class
+│   │   └── templates
+│   │       └── ticket.html
+│   ├── generated-sources
+│   │   └── annotations
+│   ├── generated-test-sources
+│   │   └── test-annotations
+│   ├── maven-archiver
+│   │   └── pom.properties
+│   ├── maven-status
+│   │   └── maven-compiler-plugin
+│   │       ├── compile
+│   │       │   └── default-compile
+│   │       │       ├── createdFiles.lst
+│   │       │       └── inputFiles.lst
+│   │       └── testCompile
+│   │           └── default-testCompile
+│   │               ├── createdFiles.lst
+│   │               └── inputFiles.lst
+│   ├── surefire-reports
+│   │   ├── TEST-com.example.zendeskticketviewer.TicketControllerTest.xml
+│   │   ├── TEST-com.example.zendeskticketviewer.TicketServiceTest.xml
+│   │   ├── TEST-com.example.zendeskticketviewer.ZendeskTicketViewerApplicationTests.xml
+│   │   ├── com.example.zendeskticketviewer.TicketControllerTest.txt
+│   │   ├── com.example.zendeskticketviewer.TicketServiceTest.txt
+│   │   └── com.example.zendeskticketviewer.ZendeskTicketViewerApplicationTests.txt
+│   └── test-classes
+│       └── com
+│           └── example
+│               └── zendeskticketviewer
+│                   ├── TicketControllerTest.class
+│                   ├── TicketServiceTest.class
+│                   └── ZendeskTicketViewerApplicationTests.class
+├── tickets.json
+└── tree.text
+
+38 directories, 45 files
