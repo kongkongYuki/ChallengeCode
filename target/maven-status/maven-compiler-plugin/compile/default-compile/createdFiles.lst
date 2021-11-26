@@ -1,8 +1,0 @@
-com/example/zendeskticketviewer/Model/Meta.class
-com/example/zendeskticketviewer/Model/Tuple.class
-com/example/zendeskticketviewer/Model/Reponse.class
-com/example/zendeskticketviewer/Model/Ticket.class
-com/example/zendeskticketviewer/ZendeskTicketViewerApplication.class
-com/example/zendeskticketviewer/TicketController.class
-com/example/zendeskticketviewer/GlobalExceptionHandler.class
-com/example/zendeskticketviewer/TicketService.class

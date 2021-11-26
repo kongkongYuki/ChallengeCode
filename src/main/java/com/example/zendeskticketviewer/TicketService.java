@@ -25,7 +25,7 @@ public class TicketService implements InitializingBean{
     private List<String> after_cursor_list;
     private List<String> before_cursor_list;
     private List<Ticket[]> ticket_list;
-    private final Integer size = 25;
+    public final Integer size = 25;
 
     public TicketService() {
         pages = 1;

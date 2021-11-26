@@ -28,12 +28,9 @@ public class TicketController {
     public String getTicket(Model model, @PathVariable(required = false) Integer pageNum){
                 Ticket[] tickets = null;
                 Integer pages = ticketService.getPages();
-                Tuple<HttpStatus, Reponse> response = ticketService.sentRequest("https://zccyxin.zendesk.com/api/v2/tickets.json?page[size]=20");
                 if (pageNum==null) {
-                    System.out.println(pageNum);
                     tickets = ticketService.getTicketByPage(1);
                 }else{
-                    System.out.println(pageNum);
                     tickets = ticketService.getTicketByPage(pageNum);
                 }
                 model.addAttribute("title", "Ticket List");
