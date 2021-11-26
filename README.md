@@ -12,7 +12,13 @@
 
 ## Build & Run
 ```
+> cd .
+> mvn clean
+> mvn install
 > mvn package
+```
+There is an compiled one in target folder.
+```
 > cd target
 > java -jar ZendeskTicketViewer-0.0.1-SNAPSHOT.jar
 ```

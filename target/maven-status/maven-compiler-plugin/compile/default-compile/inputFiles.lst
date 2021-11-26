@@ -1,8 +1,8 @@
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/TicketService.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/Model/Meta.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/Model/Reponse.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/Model/Tuple.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/GlobalExceptionHandler.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/Model/Ticket.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/TicketController.java
-/Users/xinyu/Documents/JavaProjects/ZendeskTicketViewer/src/main/java/com/example/zendeskticketviewer/ZendeskTicketViewerApplication.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/ZendeskTicketViewerApplication.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/Model/Ticket.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/TicketController.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/GlobalExceptionHandler.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/Model/Meta.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/TicketService.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/Model/Reponse.java
+/Users/xinyu/Documents/JavaProjects/ChallengeCode/src/main/java/com/example/zendeskticketviewer/Model/Tuple.java
